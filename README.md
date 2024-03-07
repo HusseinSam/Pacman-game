@@ -13,6 +13,7 @@ tools:
 4.small keyboard to control the movement of the player
 
 project Key Features:
+
 1.Bitmap Graphics:- we used bitmaps to draw walls , ghosts , coins , hammer and pacman on the screen.
 
 2.Dynamic Hearts: Introduce an engaging lives system with dynamic hearts. Pacman starts with three hearts, and collisions with green ghosts add an extra heart, up to a maximum of three hearts. Collisions with red ghosts, on the other hand, result in the loss of one heart, gameover if you have zero hearts. 
