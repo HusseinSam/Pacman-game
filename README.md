@@ -1,6 +1,14 @@
 # Pacman-game
-Pacman Game on FPGA using Quartus and System Verilog
-This project seamlessly integrates hardware and software, offering a unique and hands-on experience in digital design and verification.
+Description: Developed a fully functional Pacman game using Quartus and FPGA technology. This project was carried out in collaboration with Lab 1A in the Electrical Engineering department.
+
+Responsibilities:
+Designed and implemented the game logic and graphics using Quartus, an FPGA design software.
+Utilized FPGA (Field-Programmable Gate Array) for hardware implementation, ensuring efficient and high-speed performance.
+Employed SystemVerilog for verification purposes, ensuring the accuracy and reliability of the game’s functionality.
+Conducted thorough testing and debugging to optimize game performance and user experience.
+
+Skills Acquired: Proficiency in FPGA design, Quartus software, hardware-software integration, SystemVerilog verification, and problem-solving in digital system design.
+
 
 tools:
 
